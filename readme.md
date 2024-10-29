@@ -1,8 +1,22 @@
-## CSS Grid Display
+## CSS Grid Lab
+
+
+## References:
+<details>
+(1) https://developer.mozilla.org/en-US/
+ - Using media queries
+
+(2) ChatGPT
+- Checking syntax errors, asking for help in better understanding concepts of grid and media queries.
+
+<br/>
+
+</details>
 
 #### I attempted to emulate the CTA design from wireframing
 
-#### I worked my way up from mobil design. This was the initial html and css:
+#### I worked my way up from mobile design. This was the initial html and css:
+
 
 <br/>
 
